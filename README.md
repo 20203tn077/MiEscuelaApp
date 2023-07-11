@@ -7,3 +7,4 @@ Este es un proyecto de una aplicación HTML que consume un archivos JSON estáti
 Este proyecto fue creado por:
 Ricardo Cárdenas Guevara
 Liz Claudia Espinosa Gutierrez
+Araceli Garcia Diaz
