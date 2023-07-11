@@ -5,6 +5,7 @@ Este es un proyecto de una aplicación HTML que consume un archivos JSON estáti
 ## Autores
 
 Este proyecto fue creado por:
+Almazán Orlova Luba Tzitlali
 Ricardo Cárdenas Guevara
 Liz Claudia Espinosa Gutierrez
 Araceli Garcia Diaz
