@@ -5,3 +5,4 @@ Este es un proyecto de una aplicación HTML que consume un archivos JSON estáti
 ## Autores
 
 Este proyecto fue creado por:
+Liz Claudia Espinosa Gutierrez
